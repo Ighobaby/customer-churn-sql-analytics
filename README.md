@@ -66,7 +66,7 @@ Early tenure customers are most vulnerable
 
 SQL Server (T-SQL)
 
-Power BI (for visualization)
+
 
 
 ## Outcome
