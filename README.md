@@ -1,4 +1,9 @@
 ## Customer Churn Analysis & Risk Scoring (SQL Only)
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC29227?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC29227?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2CC1F?style=for-the-badge&logo=power-bi&logoColor=black)
+
 ## Overview
 
 This project demonstrates an end-to-end customer churn analysis using SQL only.
@@ -46,7 +51,6 @@ Key engineered features include:
 - ChurnRiskBand (Low / Medium / High)
 
 
-
  ## Business Insight
 
 Analysis confirms that:
@@ -66,7 +70,6 @@ SQL Server (T-SQL)
 Power BI (for visualization)
 
 
-
 ## Outcome
 
 A clean, scalable churn analytics model that supports:
@@ -76,4 +79,3 @@ Risk segmentation
 Retention targeting
 
 Executive dashboards
-
