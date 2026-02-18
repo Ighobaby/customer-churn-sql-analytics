@@ -2,7 +2,6 @@
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC29227?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC29227?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2CC1F?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ## Overview
 
