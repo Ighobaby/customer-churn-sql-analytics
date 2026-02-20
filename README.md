@@ -78,3 +78,30 @@ Risk segmentation
 Retention targeting
 
 Executive dashboards
+
+
+## Power BI Dashboard (Executive View)
+
+This project includes an executive facing Power BI dashboard built directly on top of the SQL churn risk views.
+
+The dashboard translates the SQL based churn model into clear, actionable insights for business stakeholders.
+
+### Key Dashboard Insights
+
+- Overall lifecycle churn rate across observed tenure (0–72 months)
+- Month-to-month contracts churn nearly 4× more than long term contracts
+- Churn risk decreases as service engagement depth increases
+- Highest churn occurs early in the customer lifecycle
+- High risk customers are clearly identifiable for retention action
+
+### Dashboard Features
+
+- KPI cards: Total Customers, Churned Customers, Lifecycle Churn Rate
+- Churn by Contract Type (risk highlighted)
+- Churn by Service Engagement Level
+- Churn across Customer Tenure (lifecycle trend)
+- High risk customer table for operational follow up
+
+### Power BI Screenshot
+Customer Churn Dashboard
+https://drive.google.com/file/d/1d_AFi55pgQxO5kmEOQHXFOim5iXS8HET/view?usp=drive_link
