@@ -1,11 +1,11 @@
-## Customer Churn Analysis & Risk Scoring (SQL Only)
+## Customer Churn Analysis & Risk Scoring (SQL + Power BI)
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC29227?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC29227?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ## Overview
 
-This project demonstrates an end-to-end customer churn analysis using SQL only.
+This project demonstrates an end to end customer churn analysis using SQL and PowerBI.
 It transforms raw telecom customer data into analytical, feature rich views and applies a transparent, rule based churn risk scoring model suitable for BI tools.
 
 
@@ -65,6 +65,7 @@ Early tenure customers are most vulnerable
 ## Tools Used
 
 SQL Server (T-SQL)
+Power BI
 
 
 
